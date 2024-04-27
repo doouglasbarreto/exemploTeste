@@ -1,4 +1,4 @@
-namespace Projeto_Resturante
+namespace exemploTeste
 {
     internal static class Program
     {

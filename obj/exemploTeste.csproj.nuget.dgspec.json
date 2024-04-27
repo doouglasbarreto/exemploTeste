@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\exemploTeste\\Projeto Resturante\\Projeto Resturante.csproj": {}
+    "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\exemploTeste\\exemploTeste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\exemploTeste\\Projeto Resturante\\Projeto Resturante.csproj": {
+    "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\exemploTeste\\exemploTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\exemploTeste\\Projeto Resturante\\Projeto Resturante.csproj",
-        "projectName": "Projeto Resturante",
-        "projectPath": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\exemploTeste\\Projeto Resturante\\Projeto Resturante.csproj",
+        "projectUniqueName": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\exemploTeste\\exemploTeste.csproj",
+        "projectName": "exemploTeste",
+        "projectPath": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\exemploTeste\\exemploTeste.csproj",
         "packagesPath": "C:\\Users\\Douglas Barreto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\exemploTeste\\Projeto Resturante\\obj\\",
+        "outputPath": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\exemploTeste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Douglas Barreto\\AppData\\Roaming\\NuGet\\NuGet.Config",

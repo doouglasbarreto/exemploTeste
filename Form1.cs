@@ -1,4 +1,4 @@
-namespace Projeto_Resturante
+namespace exemploTeste
 {
     public partial class Form1 : Form
     {
